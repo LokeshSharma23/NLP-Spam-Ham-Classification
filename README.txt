@@ -46,7 +46,9 @@ Natural Language Data Pre-Processing and Cleaning:
 
 Techniques Used:
 1. Bag of Words Vectorization
+
 2. Tfidf- Term Frequency- Inverse Document Frequency
+
 3. Creating Pipeline for Natural Language Pre-processing and model building.
 
 
