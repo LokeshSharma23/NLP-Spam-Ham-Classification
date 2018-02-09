@@ -44,6 +44,10 @@ Natural Language Data Pre-Processing and Cleaning:
 
 2. Removed most common Stopwords 
 
+Techniques Used:
+1. Bag of Words Vectorization
+2. Tfidf- Term Frequency- Inverse Document Frequency
+3. Creating Pipeline for Natural Language Pre-processing and model building.
 
 
 Classification Model Used:
